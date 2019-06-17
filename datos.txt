@@ -1,0 +1,12 @@
+TPI-2019
+
+Luis Guillermo Garcìa Aguilar GA14018
+Jonathan Armando Garcia Hernandez GH14024
+
+---Back-End : http://localhost:8080/Farmacia-1.0-SNAPSHOT
+
+---Back-End rest : http://localhost:8080/Farmacia-1.0-SNAPSHOT/webresources/usuario
+
+		   http://localhost:8080/Farmacia-1.0-SNAPSHOT/webresources/
+
+---Front-End : localhost
